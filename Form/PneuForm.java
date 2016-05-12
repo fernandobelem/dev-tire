@@ -59,7 +59,7 @@ public class PneuForm extends javax.swing.JFrame {
             comboPosicao.addItem("Pneu externo esquerdo");
             comboPosicao.addItem("Pneu externo direito");
             comboPosicao.addItem("Pneu interno direito");
-            comboPosicao.addItem("Pneu interno direito");
+            comboPosicao.addItem("Pneu interno esquerdo");
 
         }
         comboPosicao.addItem("Estepe");
